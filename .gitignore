@@ -1,18 +1,110 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+{
+  "cnpj": "02.381.667/0001-07",
+  "porte": "01",
+  "tipo": "MATRIZ",
+  "nome": "TROPIKUS PRESTADORA DE SERVICOS LTDA",
+  "nomeFantasia": "TROPIKUS",
+  "situacao": "ATIVA",
+  "dataSituacao": "2005-11-03T05:00:00.000Z",
+  "motivoSituacao": "",
+  "naturezaJuridica": "2240 - Sociedade Simples Limitada",
+  "dataAbertura": "1998-02-20T05:00:00.000Z",
+  "logradouro": "RUA AUGUSTO DE VASCONCELOS",
+  "numero": "914",
+  "complemento": "SALA  306",
+  "cep": 23050340,
+  "estado": "RJ",
+  "cidade": "RIO DE JANEIRO",
+  "bairro": "CAMPO GRANDE",
+  "telefone": "21  24156064",
+  "email": "",
+  "capitalSocial": "60000",
+  "situacaoEspecial": "",
+  "dataSituacaoEspecial": "1899-11-30T05:00:00.000Z",
+  "atividadePrimaria": {
+    "Codigo": 8121400,
+    "Descricao": "Limpeza em prédios e em domicílios"
+  },
+  "atividadeSecundaria": [
+    {
+      "Codigo": 4213800,
+      "Descricao": "Obras de urbanização - ruas, praças e calçadas"
+    },
+    {
+      "Codigo": 4322301,
+      "Descricao": "Instalações hidráulicas, sanitárias e de gás"
+    },
+    {
+      "Codigo": 5223100,
+      "Descricao": "Estacionamento de veículos"
+    },
+    {
+      "Codigo": 6120599,
+      "Descricao": "Serviços de telecomunicações sem fio não especificados anteriormente"
+    },
+    {
+      "Codigo": 7490199,
+      "Descricao": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+    },
+    {
+      "Codigo": 7733100,
+      "Descricao": "Aluguel de máquinas e equipamentos para escritório"
+    },
+    {
+      "Codigo": 7739099,
+      "Descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+    },
+    {
+      "Codigo": 8020001,
+      "Descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+    },
+    {
+      "Codigo": 8111700,
+      "Descricao": "Serviços combinados para apoio a edifícios, exceto condomínios prediais"
+    },
+    {
+      "Codigo": 8129000,
+      "Descricao": "Atividades de limpeza não especificadas anteriormente"
+    },
+    {
+      "Codigo": 8130300,
+      "Descricao": "Atividades paisagísticas"
+    },
+    {
+      "Codigo": 8220200,
+      "Descricao": "Atividades de teleatendimento"
+    },
+    {
+      "Codigo": 8230001,
+      "Descricao": "Serviços de organização de feiras, congressos, exposições e festas"
+    },
+    {
+      "Codigo": 9609299,
+      "Descricao": "Outras atividades de serviços pessoais não especificadas anteriormente"
+    },
+    {
+      "Codigo": 0,
+      "Descricao": "undefined"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JEAN RODRIGO DA SILVA BORDALLO",
+      "qualificacao": "22 - SÓCIO"
+    },
+    {
+      "nome": "NAPOLEAO CERDEIRA BORDALLO JUNIOR",
+      "qualificacao": "49 - SÓCIO-ADMINISTRADOR"
+    }
+  ]
+}
 
-# Other files and folders
-.settings/
+Outras info:
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+Natureza Jurídica:
+2240 - Sociedade Simples Limitada
+Porte:
+01
+E-mail:
+Telefones:
+21 24156064
